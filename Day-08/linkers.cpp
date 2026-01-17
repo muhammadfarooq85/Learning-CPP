@@ -1,0 +1,3 @@
+// Linkers in CPP
+
+// Linkers are programs that take one or more object files genrerated by a compiler and combine them into a single executable file, library file, or another object file. They resolve references to undefined symbols by finding the correct definitions in other object files or libraries. Linkers also handle address relocation, which involves adjusting memory addresses in the code to ensure that all parts of the program can correctly reference each other when loaded into memory.
